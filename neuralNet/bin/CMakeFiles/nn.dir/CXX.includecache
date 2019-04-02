@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruno/openCV/neuralNet/nn/main.cpp
+opencv2/opencv.hpp
+/home/bruno/openCV/neuralNet/nn/opencv2/opencv.hpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+vector
+-
+stdlib.h
+-
+

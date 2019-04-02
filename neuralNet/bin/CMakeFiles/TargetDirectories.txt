@@ -1,0 +1,1 @@
+/home/bruno/openCV/neuralNet/bin/CMakeFiles/main.dir

@@ -1,0 +1,1 @@
+/home/bruno/openCV/iotFacialRec/bin/CMakeFiles/main.dir

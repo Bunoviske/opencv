@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/uiotFacialRec.dir/main.cpp.o  -o uiotFacialRec -rdynamic 
